@@ -1,0 +1,6 @@
+[submodule "Motor-de-controlado-via-Vis-o-Computacional"]
+	path = Motor-de-controlado-via-Vis-o-Computacional
+	url = https://github.com/PETEngenhariaEletricaUFRN/Motor-de-controlado-via-Vis-o-Computacional.git
+[submodule "Motor de controlado via Visão Computacional"]
+	path = Motor de controlado via Visão Computacional
+	url = https://github.com/PETEngenhariaEletricaUFRN/controle-visao-computacional.git
