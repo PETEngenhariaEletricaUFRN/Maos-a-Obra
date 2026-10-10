@@ -1,3 +1,7 @@
 [submodule "Motor-de-controlado-via-Vis-o-Computacional"]
 	path = Motor-de-controlado-via-Vis-o-Computacional
 	url = https://github.com/PETEngenhariaEletricaUFRN/Motor-de-controlado-via-Vis-o-Computacional.git
+
+[submodule "Jogo-1D"]
+	path = Jogo-1D
+	url = https://github.com/PETEngenhariaEletricaUFRN/Jogo-1D.git
