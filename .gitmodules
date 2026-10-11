@@ -5,3 +5,7 @@
 [submodule "Jogo-1D"]
 	path = Jogo-1D
 	url = https://github.com/PETEngenhariaEletricaUFRN/Jogo-1D.git
+	
+[submodule "Tranca-eletronica"]
+	path = Tranca-eletronica
+	url = https://github.com/PETEngenhariaEletricaUFRN/Tranca-Eletronica.git
