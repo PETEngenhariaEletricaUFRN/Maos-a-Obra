@@ -1,7 +1,5 @@
 # Pedra-Papel-Tesoura
 
-Um robozinho que joga pedra, papel e tesoura com você. Você bate a mão na mesa na frente dele três vezes (jo, ken, po), o sensor ultrassônico conta as batidas e na terceira ele sorteia a jogada e mostra no display.
-
 ## Componentes
 
 - ESP32 DevKit 30 pinos (USB-C, CH340)
