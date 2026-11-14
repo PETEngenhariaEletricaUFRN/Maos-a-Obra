@@ -1,0 +1,13 @@
+# ESP-IDF
+Software/ESP-IDF/build/
+Software/ESP-IDF/sdkconfig
+Software/ESP-IDF/sdkconfig.old
+Software/ESP-IDF/managed_components/
+Software/ESP-IDF/dependencies.lock
+
+# KiCad
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.lck
+.history/

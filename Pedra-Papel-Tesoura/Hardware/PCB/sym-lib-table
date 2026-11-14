@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PEDRA_PAPEL_TESOURA") (type "KiCad") (uri "${KIPRJMOD}/lib/pedra_papel_tesoura.kicad_sym") (options "") (descr ""))
+)
